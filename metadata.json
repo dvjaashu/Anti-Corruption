@@ -1,0 +1,6 @@
+{
+  "name": "Anti-Corruption",
+  "description": "Secure, government-grade platform for cryptographic, verified reporting of suspected corruption with decentralized integrity tracking and AI-powered report classification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
